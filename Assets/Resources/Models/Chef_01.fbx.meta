@@ -1,0 +1,1257 @@
+fileFormatVersion: 2
+guid: 62cbb189a2a7ac14891741eada99dad0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Chef_Low_01
+    100004: Chef_Low_Delantal_01
+    100006: Chef_Low_Gorro_01
+    100008: Chef_Low_Panyo_01
+    100010: mdl_Chef:bnArm_L_1
+    100012: mdl_Chef:bnArm_L_2
+    100014: mdl_Chef:bnArm_R_1
+    100016: mdl_Chef:bnArm_R_2
+    100018: mdl_Chef:bnChest
+    100020: mdl_Chef:bnFoot_L_1
+    100022: mdl_Chef:bnFoot_L_2
+    100024: mdl_Chef:bnFoot_R_1
+    100026: mdl_Chef:bnFoot_R_2
+    100028: mdl_Chef:bnHand_L
+    100030: mdl_Chef:bnHand_R
+    100032: mdl_Chef:bnHead
+    100034: mdl_Chef:bnHips
+    100036: mdl_Chef:bnIndex_L_1
+    100038: mdl_Chef:bnIndex_L_2
+    100040: mdl_Chef:bnIndex_L_3
+    100042: mdl_Chef:bnIndex_R_1
+    100044: mdl_Chef:bnIndex_R_2
+    100046: mdl_Chef:bnIndex_R_3
+    100048: mdl_Chef:bnJaw
+    100050: mdl_Chef:bnLeg_L_1
+    100052: mdl_Chef:bnLeg_L_2
+    100054: mdl_Chef:bnLeg_R_1
+    100056: mdl_Chef:bnLeg_R_2
+    100058: mdl_Chef:bnMiddle_L_1
+    100060: mdl_Chef:bnMiddle_L_2
+    100062: mdl_Chef:bnMiddle_L_3
+    100064: mdl_Chef:bnMiddle_R_1
+    100066: mdl_Chef:bnMiddle_R_2
+    100068: mdl_Chef:bnMiddle_R_3
+    100070: mdl_Chef:bnNeck
+    100072: mdl_Chef:bnPinky_L_1
+    100074: mdl_Chef:bnPinky_L_2
+    100076: mdl_Chef:bnPinky_L_3
+    100078: mdl_Chef:bnPinky_R_1
+    100080: mdl_Chef:bnPinky_R_2
+    100082: mdl_Chef:bnPinky_R_3
+    100084: mdl_Chef:bnRing_L_1
+    100086: mdl_Chef:bnRing_L_2
+    100088: mdl_Chef:bnRing_L_3
+    100090: mdl_Chef:bnRing_R_1
+    100092: mdl_Chef:bnRing_R_2
+    100094: mdl_Chef:bnRing_R_3
+    100096: mdl_Chef:bnShoulder_L
+    100098: mdl_Chef:bnShoulder_R
+    100100: mdl_Chef:bnSpine
+    100102: mdl_Chef:bnThumb_L_1
+    100104: mdl_Chef:bnThumb_L_2
+    100106: mdl_Chef:bnThumb_L_3
+    100108: mdl_Chef:bnThumb_R_1
+    100110: mdl_Chef:bnThumb_R_2
+    100112: mdl_Chef:bnThumb_R_3
+    100114: mdl_Chef:Ctrl
+    100116: mdl_Chef:effArm_L
+    100118: mdl_Chef:effArm_R
+    100120: mdl_Chef:effFoot_L
+    100122: mdl_Chef:effFoot_R
+    100124: mdl_Chef:effHand_L
+    100126: mdl_Chef:effHand_R
+    100128: mdl_Chef:effHead
+    100130: mdl_Chef:effIndex_L
+    100132: mdl_Chef:effIndex_R
+    100134: mdl_Chef:effJaw
+    100136: mdl_Chef:effLeg_L
+    100138: mdl_Chef:effLeg_R
+    100140: mdl_Chef:effMiddle_L
+    100142: mdl_Chef:effMiddle_R
+    100144: mdl_Chef:effPinky_L
+    100146: mdl_Chef:effPinky_R
+    100148: mdl_Chef:effRing_L
+    100150: mdl_Chef:effRing_R
+    100152: mdl_Chef:effShoulder_L
+    100154: mdl_Chef:effShoulder_R
+    100156: mdl_Chef:effSpine
+    100158: mdl_Chef:effThumb_L
+    100160: mdl_Chef:effThumb_R
+    100162: mdl_Chef:mdl_Chef
+    100164: mdl_Chef:rt_Ring_L
+    100166: mdl_Chef:rt_Ring_R
+    100168: mdl_Chef:rtArm_L
+    100170: mdl_Chef:rtArm_R
+    100172: mdl_Chef:rtFoot_L
+    100174: mdl_Chef:rtFoot_R
+    100176: mdl_Chef:rtHand_L
+    100178: mdl_Chef:rtHand_R
+    100180: mdl_Chef:rtIndex_L
+    100182: mdl_Chef:rtIndex_R
+    100184: mdl_Chef:rtJaw
+    100186: mdl_Chef:rtLeg_L
+    100188: mdl_Chef:rtLeg_R
+    100190: mdl_Chef:rtMiddle_L
+    100192: mdl_Chef:rtMiddle_R
+    100194: mdl_Chef:rtNeck
+    100196: mdl_Chef:rtPinky_L
+    100198: mdl_Chef:rtPinky_R
+    100200: mdl_Chef:rtShoulder_L
+    100202: mdl_Chef:rtShoulder_R
+    100204: mdl_Chef:rtSpine
+    100206: mdl_Chef:rtThumb_L
+    100208: mdl_Chef:rtThumb_R
+    400000: //RootNode
+    400002: Chef_Low_01
+    400004: Chef_Low_Delantal_01
+    400006: Chef_Low_Gorro_01
+    400008: Chef_Low_Panyo_01
+    400010: mdl_Chef:bnArm_L_1
+    400012: mdl_Chef:bnArm_L_2
+    400014: mdl_Chef:bnArm_R_1
+    400016: mdl_Chef:bnArm_R_2
+    400018: mdl_Chef:bnChest
+    400020: mdl_Chef:bnFoot_L_1
+    400022: mdl_Chef:bnFoot_L_2
+    400024: mdl_Chef:bnFoot_R_1
+    400026: mdl_Chef:bnFoot_R_2
+    400028: mdl_Chef:bnHand_L
+    400030: mdl_Chef:bnHand_R
+    400032: mdl_Chef:bnHead
+    400034: mdl_Chef:bnHips
+    400036: mdl_Chef:bnIndex_L_1
+    400038: mdl_Chef:bnIndex_L_2
+    400040: mdl_Chef:bnIndex_L_3
+    400042: mdl_Chef:bnIndex_R_1
+    400044: mdl_Chef:bnIndex_R_2
+    400046: mdl_Chef:bnIndex_R_3
+    400048: mdl_Chef:bnJaw
+    400050: mdl_Chef:bnLeg_L_1
+    400052: mdl_Chef:bnLeg_L_2
+    400054: mdl_Chef:bnLeg_R_1
+    400056: mdl_Chef:bnLeg_R_2
+    400058: mdl_Chef:bnMiddle_L_1
+    400060: mdl_Chef:bnMiddle_L_2
+    400062: mdl_Chef:bnMiddle_L_3
+    400064: mdl_Chef:bnMiddle_R_1
+    400066: mdl_Chef:bnMiddle_R_2
+    400068: mdl_Chef:bnMiddle_R_3
+    400070: mdl_Chef:bnNeck
+    400072: mdl_Chef:bnPinky_L_1
+    400074: mdl_Chef:bnPinky_L_2
+    400076: mdl_Chef:bnPinky_L_3
+    400078: mdl_Chef:bnPinky_R_1
+    400080: mdl_Chef:bnPinky_R_2
+    400082: mdl_Chef:bnPinky_R_3
+    400084: mdl_Chef:bnRing_L_1
+    400086: mdl_Chef:bnRing_L_2
+    400088: mdl_Chef:bnRing_L_3
+    400090: mdl_Chef:bnRing_R_1
+    400092: mdl_Chef:bnRing_R_2
+    400094: mdl_Chef:bnRing_R_3
+    400096: mdl_Chef:bnShoulder_L
+    400098: mdl_Chef:bnShoulder_R
+    400100: mdl_Chef:bnSpine
+    400102: mdl_Chef:bnThumb_L_1
+    400104: mdl_Chef:bnThumb_L_2
+    400106: mdl_Chef:bnThumb_L_3
+    400108: mdl_Chef:bnThumb_R_1
+    400110: mdl_Chef:bnThumb_R_2
+    400112: mdl_Chef:bnThumb_R_3
+    400114: mdl_Chef:Ctrl
+    400116: mdl_Chef:effArm_L
+    400118: mdl_Chef:effArm_R
+    400120: mdl_Chef:effFoot_L
+    400122: mdl_Chef:effFoot_R
+    400124: mdl_Chef:effHand_L
+    400126: mdl_Chef:effHand_R
+    400128: mdl_Chef:effHead
+    400130: mdl_Chef:effIndex_L
+    400132: mdl_Chef:effIndex_R
+    400134: mdl_Chef:effJaw
+    400136: mdl_Chef:effLeg_L
+    400138: mdl_Chef:effLeg_R
+    400140: mdl_Chef:effMiddle_L
+    400142: mdl_Chef:effMiddle_R
+    400144: mdl_Chef:effPinky_L
+    400146: mdl_Chef:effPinky_R
+    400148: mdl_Chef:effRing_L
+    400150: mdl_Chef:effRing_R
+    400152: mdl_Chef:effShoulder_L
+    400154: mdl_Chef:effShoulder_R
+    400156: mdl_Chef:effSpine
+    400158: mdl_Chef:effThumb_L
+    400160: mdl_Chef:effThumb_R
+    400162: mdl_Chef:mdl_Chef
+    400164: mdl_Chef:rt_Ring_L
+    400166: mdl_Chef:rt_Ring_R
+    400168: mdl_Chef:rtArm_L
+    400170: mdl_Chef:rtArm_R
+    400172: mdl_Chef:rtFoot_L
+    400174: mdl_Chef:rtFoot_R
+    400176: mdl_Chef:rtHand_L
+    400178: mdl_Chef:rtHand_R
+    400180: mdl_Chef:rtIndex_L
+    400182: mdl_Chef:rtIndex_R
+    400184: mdl_Chef:rtJaw
+    400186: mdl_Chef:rtLeg_L
+    400188: mdl_Chef:rtLeg_R
+    400190: mdl_Chef:rtMiddle_L
+    400192: mdl_Chef:rtMiddle_R
+    400194: mdl_Chef:rtNeck
+    400196: mdl_Chef:rtPinky_L
+    400198: mdl_Chef:rtPinky_R
+    400200: mdl_Chef:rtShoulder_L
+    400202: mdl_Chef:rtShoulder_R
+    400204: mdl_Chef:rtSpine
+    400206: mdl_Chef:rtThumb_L
+    400208: mdl_Chef:rtThumb_R
+    4300000: Chef_Low_01
+    4300002: Chef_Low_Panyo_01
+    4300004: Chef_Low_Gorro_01
+    4300006: Chef_Low_Delantal_01
+    9500000: //RootNode
+    13700000: Chef_Low_01
+    13700002: Chef_Low_Delantal_01
+    13700004: Chef_Low_Gorro_01
+    13700006: Chef_Low_Panyo_01
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_Material
+    second: {fileID: 2100000, guid: 644563dfc228c4f4aac4d5dbe5a4868f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.099999994
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: mdl_Chef:bnHips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:bnLeg_L_1
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:bnLeg_R_1
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:bnLeg_L_2
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:bnLeg_R_2
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:bnFoot_L_1
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:bnFoot_R_1
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:bnSpine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:bnChest
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:bnNeck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:bnHead
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:bnShoulder_L
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:bnShoulder_R
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:bnArm_L_1
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:bnArm_R_1
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:bnArm_L_2
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:bnArm_R_2
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:bnHand_L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:bnHand_R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:bnFoot_L_2
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:bnFoot_R_2
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:bnJaw
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:rtThumb_L
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:bnThumb_L_3
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:effThumb_L
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:rtIndex_L
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:bnIndex_L_3
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:effIndex_L
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:rtMiddle_L
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:bnMiddle_L_3
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:effMiddle_L
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:rt_Ring_L
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:bnRing_L_3
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:effRing_L
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:rtPinky_L
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:bnPinky_L_3
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:effPinky_L
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:rtThumb_R
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:bnThumb_R_3
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:effThumb_R
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:rtIndex_R
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:bnIndex_R_3
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:effIndex_R
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:rtMiddle_R
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:bnMiddle_R_3
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:effMiddle_R
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:bnRing_R_1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:bnRing_R_2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:bnRing_R_3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:bnPinky_R_1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:bnPinky_R_2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mdl_Chef:bnPinky_R_3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Chef_01(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Chef_Low_01
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 2.357143, y: 2.357143, z: 2.357143}
+    - name: Chef_Low_Delantal_01
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 2.357143, y: 2.357143, z: 2.357143}
+    - name: Chef_Low_Gorro_01
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 2.357143, y: 2.357143, z: 2.357143}
+    - name: Chef_Low_Panyo_01
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 2.357143, y: 2.357143, z: 2.357143}
+    - name: mdl_Chef:mdl_Chef
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:Ctrl
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:rtSpine
+      parentName: 
+      position: {x: -0, y: 1.0194491, z: -0.018994182}
+      rotation: {x: -0, y: -0.7071068, z: 0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnHips
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -6.122163e-27, y: 1.6653345e-16, z: -0.63140005, w: 0.77545726}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:rtLeg_L
+      parentName: 
+      position: {x: -0.060469706, y: -0.007907538, z: 0.09244001}
+      rotation: {x: -0.05900115, y: 0.0031650872, z: 0.9968196, w: 0.05347389}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnLeg_L_1
+      parentName: 
+      position: {x: -6.730727e-17, y: 1.6653344e-17, z: 4.1026206e-17}
+      rotation: {x: 0.0053089936, y: 0.034385253, z: -0.10722279, w: 0.99362606}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnLeg_L_2
+      parentName: 
+      position: {x: -0.5057475, y: 0, z: -1.095446e-17}
+      rotation: {x: 2.7755576e-17, y: 1.3635684e-28, z: -0.09119468, w: 0.9958331}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:effLeg_L
+      parentName: 
+      position: {x: -0.46999994, y: -4.4408918e-17, z: -4.4408918e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:rtFoot_L
+      parentName: 
+      position: {x: -0.0065008076, y: 0.0035341776, z: -0.0007971354}
+      rotation: {x: -0.017635215, y: -0.056392845, z: 0.50043637, w: 0.86375475}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnFoot_L_1
+      parentName: 
+      position: {x: -0, y: 0, z: 3.4694467e-18}
+      rotation: {x: 0.0068138517, y: -0.018389879, z: 0.022180846, w: 0.9995616}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnFoot_L_2
+      parentName: 
+      position: {x: -0.145, y: -2.2204459e-17, z: -1.8735012e-17}
+      rotation: {x: -4.2500725e-17, y: 5.551115e-17, z: 0.367072, w: 0.93019253}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:effFoot_L
+      parentName: 
+      position: {x: -0.116364986, y: 1.329492e-15, z: -3.5527135e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:rtLeg_R
+      parentName: 
+      position: {x: -0.060469706, y: -0.007907538, z: -0.09244001}
+      rotation: {x: 0.0031650872, y: 0.05900115, z: -0.05347389, w: 0.9968196}
+      scale: {x: -1, y: -1, z: -1}
+    - name: mdl_Chef:bnLeg_R_1
+      parentName: 
+      position: {x: -5.342948e-17, y: -1.11022296e-17, z: 4.276093e-17}
+      rotation: {x: 0.0053089936, y: 0.034385253, z: -0.10722279, w: 0.99362606}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnLeg_R_2
+      parentName: 
+      position: {x: -0.5057475, y: 0, z: -3.9398053e-17}
+      rotation: {x: -2.7755576e-17, y: -5.551115e-17, z: -0.09119468, w: 0.9958331}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:effLeg_R
+      parentName: 
+      position: {x: -0.46999994, y: -8.8817837e-17, z: -4.4408918e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:rtFoot_R
+      parentName: 
+      position: {x: -0.0065008076, y: 0.0035341776, z: -0.0007971354}
+      rotation: {x: -0.017635215, y: -0.056392845, z: 0.50043637, w: 0.86375475}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnFoot_R_1
+      parentName: 
+      position: {x: 2.2204459e-17, y: 0, z: 6.2450043e-18}
+      rotation: {x: 0.006813543, y: -0.018389048, z: 0.022180794, w: 0.99956167}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnFoot_R_2
+      parentName: 
+      position: {x: -0.145, y: 1.11022296e-17, z: 1.9428901e-17}
+      rotation: {x: -2.7755576e-17, y: -8.6736174e-19, z: 0.367072, w: 0.93019253}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:effFoot_R
+      parentName: 
+      position: {x: -0.116364986, y: -2.4980015e-16, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnSpine
+      parentName: 
+      position: {x: -0.2361882, y: 2.2204459e-17, z: -2.4651902e-32}
+      rotation: {x: 1.9428904e-16, y: -1.6653347e-16, z: -0.05080443, w: 0.99870867}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnChest
+      parentName: 
+      position: {x: -0.24075995, y: 0, z: 9.860761e-33}
+      rotation: {x: -1.9428904e-16, y: -1.5766371e-27, z: -0.15027244, w: 0.98864466}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:effSpine
+      parentName: 
+      position: {x: -0.26946387, y: 0, z: -1.617343e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:rtNeck
+      parentName: 
+      position: {x: 0.009418872, y: -0.029809184, z: -7.995209e-17}
+      rotation: {x: -8.326673e-17, y: 3.8857806e-16, z: -0.063926026, w: 0.99795467}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnNeck
+      parentName: 
+      position: {x: -6.383782e-17, y: 0, z: 1.0600318e-31}
+      rotation: {x: -9.864e-42, y: 3.8857806e-16, z: -4.718448e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnHead
+      parentName: 
+      position: {x: -0.13499999, y: 5.8286706e-17, z: -7.0042216e-31}
+      rotation: {x: -2.7755576e-16, y: 1.110223e-16, z: 0.16272345, w: 0.98667175}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:effHead
+      parentName: 
+      position: {x: -0.19437888, y: 0, z: 9.678135e-18}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:rtJaw
+      parentName: 
+      position: {x: -0.010754528, y: 0.030591587, z: -9.4897594e-17}
+      rotation: {x: 1.5265567e-16, y: -3.8857806e-16, z: -0.8451948, w: 0.5344584}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnJaw
+      parentName: 
+      position: {x: 1.9428901e-17, y: 1.6792122e-16, z: -1.232595e-31}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:effJaw
+      parentName: 
+      position: {x: -0.08316066, y: -3.5527135e-16, z: 5.433936e-19}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:rtShoulder_L
+      parentName: 
+      position: {x: 0.09419296, y: 0.06518172, z: -4.3631766e-17}
+      rotation: {x: -0.33639902, y: 0.33393684, z: 0.62490696, w: 0.62033314}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnShoulder_L
+      parentName: 
+      position: {x: 4.8572252e-18, y: -2.7755574e-18, z: -1.31838974e-17}
+      rotation: {x: -0.0006682177, y: 0.12738723, z: -0.0011589022, w: 0.9918522}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:effShoulder_L
+      parentName: 
+      position: {x: -0.24999999, y: 0, z: 8.8817837e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:rtArm_L
+      parentName: 
+      position: {x: 0.001123956, y: -0.0021962656, z: 0.00034189707}
+      rotation: {x: -0.734196, y: 0.12512901, z: 0.19590856, w: 0.6379019}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnArm_L_1
+      parentName: 
+      position: {x: 2.9490298e-18, y: 0, z: -1.6098233e-16}
+      rotation: {x: -0.02033843, y: 0.033569645, z: -0.03620477, w: 0.9985733}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnArm_L_2
+      parentName: 
+      position: {x: -0.317, y: 0, z: 9.6103677e-17}
+      rotation: {x: -0.00072648405, y: 0.0067566517, z: 0.0025662913, w: 0.9999736}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:effArm_L
+      parentName: 
+      position: {x: -0.31303236, y: 0, z: 3.5527135e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:rtHand_L
+      parentName: 
+      position: {x: -0.00029038303, y: -0.005883053, z: 0.00013502226}
+      rotation: {x: -0.0148123745, y: 0.023181349, z: -0.09153487, w: 0.9954218}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnHand_L
+      parentName: 
+      position: {x: 1.3877787e-17, y: 1.11022296e-17, z: 4.510281e-18}
+      rotation: {x: -9.75782e-19, y: -6.938894e-18, z: 4.3368087e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:effHand_L
+      parentName: 
+      position: {x: -0.09712895, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:rt_Ring_L
+      parentName: 
+      position: {x: -0.010887196, y: 0.009912428, z: 0.011936632}
+      rotation: {x: 0.68727446, y: 0.0076493737, z: -0.13230012, w: 0.71420723}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnRing_L_1
+      parentName: 
+      position: {x: 1.6653344e-17, y: -1.7624789e-16, z: 4.4408918e-17}
+      rotation: {x: 0.000000014901149, y: 0.12270563, z: 0.101137735, w: 0.9872763}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnRing_L_2
+      parentName: 
+      position: {x: -0.04, y: -2.0122791e-17, z: 0}
+      rotation: {x: 0.000000081723506, y: -0.00000014662501, z: 0.03990154, w: 0.9992037}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnRing_L_3
+      parentName: 
+      position: {x: -0.024999999, y: -2.1788125e-16, z: -6.661338e-17}
+      rotation: {x: 1.6479875e-17, y: 1.9949322e-17, z: 0.08686447, w: 0.9962202}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:effRing_L
+      parentName: 
+      position: {x: -0.020999998, y: 3.5527135e-16, z: -8.8817837e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:rtIndex_L
+      parentName: 
+      position: {x: -0.0077287685, y: -0.049116433, z: 0.011475196}
+      rotation: {x: 0.68209684, y: 0.29571512, z: 0.15682295, w: 0.6501562}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnIndex_L_1
+      parentName: 
+      position: {x: -7.2164494e-17, y: 2.5014712e-16, z: -2.2204459e-17}
+      rotation: {x: 0.0000018305134, y: -0.22982284, z: 0.11290176, w: 0.96666163}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnIndex_L_2
+      parentName: 
+      position: {x: -0.03, y: -1.5525774e-16, z: -2.2204459e-17}
+      rotation: {x: -0.000000109488546, y: -0.0000014190438, z: 0.039902594, w: 0.99920356}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnIndex_L_3
+      parentName: 
+      position: {x: -0.024999999, y: 9.419548e-17, z: 2.7755574e-18}
+      rotation: {x: 1.7347237e-18, y: 7.372576e-18, z: 0.08686447, w: 0.9962202}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:effIndex_L
+      parentName: 
+      position: {x: -0.022999998, y: -3.5527135e-16, z: 8.8817837e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:rtMiddle_L
+      parentName: 
+      position: {x: -0.011869241, y: -0.018363403, z: 0.01173239}
+      rotation: {x: 0.69914365, y: 0.17473356, z: 0.032368895, w: 0.6925451}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnMiddle_L_1
+      parentName: 
+      position: {x: 4.9960035e-17, y: -1.887379e-16, z: 0}
+      rotation: {x: 0.00000018556594, y: -0.061971005, z: 0.09159409, w: 0.9938663}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnMiddle_L_2
+      parentName: 
+      position: {x: -0.04, y: 2.8102518e-17, z: 0}
+      rotation: {x: -0.0000000025029276, y: -0.00000042599973, z: 0.039902907, w: 0.9992036}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnMiddle_L_3
+      parentName: 
+      position: {x: -0.03, y: 4.4669126e-18, z: -2.2204459e-17}
+      rotation: {x: 1.3010427e-17, y: 8.131517e-18, z: 0.08686447, w: 0.9962202}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:effMiddle_L
+      parentName: 
+      position: {x: -0.024999999, y: -3.5527135e-16, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:rtPinky_L
+      parentName: 
+      position: {x: -0.011373905, y: 0.04159481, z: 0.011725786}
+      rotation: {x: 0.649284, y: -0.12908906, z: -0.261304, w: 0.702486}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnPinky_L_1
+      parentName: 
+      position: {x: -5.5511148e-17, y: 4.7184477e-17, z: -2.2204459e-17}
+      rotation: {x: -0.0000017106057, y: 0.307899, z: 0.119680434, w: 0.9438617}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnPinky_L_2
+      parentName: 
+      position: {x: -0.024999999, y: 1.0824674e-16, z: 1.3322676e-16}
+      rotation: {x: -0.00000005592298, y: -0.0000013079253, z: 0.039900098, w: 0.9992037}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnPinky_L_3
+      parentName: 
+      position: {x: -0.024999999, y: -3.6082247e-17, z: 0}
+      rotation: {x: 6.938895e-18, y: 1.9949322e-17, z: 0.08686447, w: 0.9962202}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:effPinky_L
+      parentName: 
+      position: {x: -0.024999999, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:rtThumb_L
+      parentName: 
+      position: {x: 0.063307844, y: -0.02105214, z: -0.008373207}
+      rotation: {x: 0.505027, y: -0.34357828, z: 0.47168863, w: 0.63593364}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnThumb_L_1
+      parentName: 
+      position: {x: -6.383782e-17, y: 1.3877787e-18, z: 4.4408918e-17}
+      rotation: {x: -0.00000077486004, y: 0.41727713, z: -0.30245572, w: 0.8569716}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnThumb_L_2
+      parentName: 
+      position: {x: -0.03578068, y: -6.661338e-17, z: 3.330669e-17}
+      rotation: {x: 0.0000002980231, y: -0.0000009946522, z: -0.035076614, w: 0.99938464}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnThumb_L_3
+      parentName: 
+      position: {x: -0.022282386, y: -2.553513e-16, z: 5.5511148e-17}
+      rotation: {x: -4.787837e-16, y: -4.8572257e-17, z: -0.13206932, w: 0.9912405}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:effThumb_L
+      parentName: 
+      position: {x: -0.027859671, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:rtShoulder_R
+      parentName: 
+      position: {x: 0.09419296, y: 0.06518172, z: -4.3631766e-17}
+      rotation: {x: 0.33393684, y: 0.33639902, z: -0.62033314, w: 0.62490696}
+      scale: {x: -1, y: -1, z: -1}
+    - name: mdl_Chef:bnShoulder_R
+      parentName: 
+      position: {x: -6.2450043e-18, y: -9.454242e-17, z: 2.7755574e-18}
+      rotation: {x: -0.0006682177, y: 0.12738721, z: -0.0011589022, w: 0.9918522}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:effShoulder_R
+      parentName: 
+      position: {x: -0.24999999, y: -3.5527135e-16, z: 8.8817837e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:rtArm_R
+      parentName: 
+      position: {x: 0.001123956, y: -0.0021962656, z: 0.00034189707}
+      rotation: {x: -0.734196, y: 0.12512901, z: 0.19590856, w: 0.6379019}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnArm_R_1
+      parentName: 
+      position: {x: 1.11022296e-17, y: 0, z: 7.910339e-17}
+      rotation: {x: -0.020338405, y: 0.033566028, z: -0.036220256, w: 0.9985729}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnArm_R_2
+      parentName: 
+      position: {x: -0.317, y: -2.2204459e-17, z: 2.0469736e-17}
+      rotation: {x: -0.00072698883, y: 0.0067593367, z: 0.0025810115, w: 0.9999736}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:effArm_R
+      parentName: 
+      position: {x: -0.31303236, y: 0, z: -3.5527135e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:rtHand_R
+      parentName: 
+      position: {x: -0.31332275, y: -0.005883053, z: 0.00013502226}
+      rotation: {x: -0.0148123745, y: 0.023181349, z: -0.09153487, w: 0.9954218}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnHand_R
+      parentName: 
+      position: {x: -1.3877787e-17, y: 0, z: -6.904199e-17}
+      rotation: {x: -1.6967764e-16, y: -8.673617e-18, z: 1.2490009e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:effHand_R
+      parentName: 
+      position: {x: -0.09712895, y: 0, z: -3.5527135e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:rt_Ring_R
+      parentName: 
+      position: {x: -0.010887031, y: 0.009912455, z: 0.011936638}
+      rotation: {x: 0.68727446, y: 0.0076493737, z: -0.13230012, w: 0.71420723}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnRing_R_1
+      parentName: 
+      position: {x: -1.0547118e-16, y: -3.4694466e-17, z: -2.2204459e-17}
+      rotation: {x: 0.00000047124905, y: 0.09610733, z: 0.02734187, w: 0.9949954}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnRing_R_2
+      parentName: 
+      position: {x: -0.04, y: -1.4224731e-16, z: 2.2204459e-17}
+      rotation: {x: 0.00000018510025, y: -0.00000042840813, z: 0.03989895, w: 0.9992037}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnRing_R_3
+      parentName: 
+      position: {x: -0.024999999, y: -3.066991e-16, z: 6.661338e-17}
+      rotation: {x: -0.000000064028384, y: -0.00000032037474, z: 0.03926713, w: 0.9992288}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:effRing_R
+      parentName: 
+      position: {x: -0.020999998, y: 3.5527135e-16, z: 4.4408918e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:rtIndex_R
+      parentName: 
+      position: {x: -0.0077290693, y: -0.04911645, z: 0.011475192}
+      rotation: {x: 0.68209684, y: 0.29571512, z: 0.15682295, w: 0.6501562}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnIndex_R_1
+      parentName: 
+      position: {x: -5.5511148e-17, y: 1.235123e-16, z: 2.2204459e-17}
+      rotation: {x: 0.00000071641955, y: -0.22982396, z: 0.1129042, w: 0.96666104}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnIndex_R_2
+      parentName: 
+      position: {x: -0.03, y: -1.6150274e-16, z: 1.3877786e-16}
+      rotation: {x: 0.000000028405324, y: 0.0000004544852, z: 0.039902, w: 0.9992036}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnIndex_R_3
+      parentName: 
+      position: {x: -0.024999999, y: 2.426878e-16, z: 2.2204459e-17}
+      rotation: {x: 1.3704317e-16, y: 1.1102232e-16, z: 0.08686447, w: 0.9962202}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:effIndex_R
+      parentName: 
+      position: {x: -0.022999998, y: 3.5527135e-16, z: -8.8817837e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:rtMiddle_R
+      parentName: 
+      position: {x: -0.0118692815, y: -0.018363398, z: 0.011732391}
+      rotation: {x: 0.69914365, y: 0.17473356, z: 0.032368895, w: 0.6925451}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnMiddle_R_1
+      parentName: 
+      position: {x: -1.11022296e-17, y: -7.667477e-17, z: -1.11022296e-17}
+      rotation: {x: -0.000000040745345, y: -0.061970495, z: 0.091595426, w: 0.9938662}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnMiddle_R_2
+      parentName: 
+      position: {x: -0.04, y: 9.5409785e-17, z: -1.11022296e-17}
+      rotation: {x: -0.00000026094474, y: 0.0000011101357, z: 0.039903127, w: 0.99920356}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnMiddle_R_3
+      parentName: 
+      position: {x: -0.03, y: -9.527968e-17, z: -1.11022296e-17}
+      rotation: {x: -1.6740083e-16, y: -4.1633367e-17, z: 0.08686447, w: 0.9962202}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:effMiddle_R
+      parentName: 
+      position: {x: -0.024999999, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:rtPinky_R
+      parentName: 
+      position: {x: -0.008949208, y: 0.04175902, z: 0.011853671}
+      rotation: {x: 0.6592653, y: -0.10073967, z: -0.2349868, w: 0.7071082}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnPinky_R_1
+      parentName: 
+      position: {x: 6.661338e-17, y: -5.898059e-17, z: 4.4408918e-17}
+      rotation: {x: -0.0000010058279, y: 0.25051808, z: 0.039810535, w: 0.9672931}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnPinky_R_2
+      parentName: 
+      position: {x: -0.024999999, y: -3.1016854e-16, z: -2.2204459e-17}
+      rotation: {x: -0.000000037485712, y: -0.0000002831219, z: 0.03990377, w: 0.99920356}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnPinky_R_3
+      parentName: 
+      position: {x: -0.024999999, y: -2.803313e-16, z: 4.4408918e-17}
+      rotation: {x: -0.000000051062635, y: 0.00000018998966, z: 0.039274592, w: 0.99922854}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:effPinky_R
+      parentName: 
+      position: {x: -0.024999999, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:rtThumb_R
+      parentName: 
+      position: {x: 0.063307844, y: -0.02105214, z: -0.008373207}
+      rotation: {x: 0.505027, y: -0.34357828, z: 0.47168863, w: 0.63593364}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnThumb_R_1
+      parentName: 
+      position: {x: -6.938893e-17, y: -1.3322676e-16, z: 3.330669e-17}
+      rotation: {x: -0.0000007329502, y: 0.4172777, z: -0.302455, w: 0.85697156}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnThumb_R_2
+      parentName: 
+      position: {x: -0.03578068, y: 4.0245583e-17, z: 1.11022296e-17}
+      rotation: {x: 0.00000019371494, y: -0.000003397462, z: -0.035071485, w: 0.9993848}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:bnThumb_R_3
+      parentName: 
+      position: {x: -0.022282386, y: 3.8302692e-16, z: -4.4408918e-17}
+      rotation: {x: -1.0581813e-15, y: -2.289835e-16, z: -0.13206932, w: 0.9912405}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mdl_Chef:effThumb_R
+      parentName: 
+      position: {x: -0.027859671, y: 3.5527135e-16, z: 1.7763567e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

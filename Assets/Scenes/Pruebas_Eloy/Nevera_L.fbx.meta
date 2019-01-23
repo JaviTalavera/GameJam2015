@@ -1,0 +1,102 @@
+fileFormatVersion: 2
+guid: e31fa2f14b5e0864d95b7b05bbe87116
+timeCreated: 1436680727
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Nevera_L_Abajo
+    100004: Nevera_L_Arriba
+    100006: Nevera_L_Puerta_Abajo
+    100008: Nevera_L_Puerta_Arriba
+    100010: Nevera_L_Tirador_Abajo
+    100012: Nevera_L_Tirador_Arriba
+    400000: //RootNode
+    400002: Nevera_L_Abajo
+    400004: Nevera_L_Arriba
+    400006: Nevera_L_Puerta_Abajo
+    400008: Nevera_L_Puerta_Arriba
+    400010: Nevera_L_Tirador_Abajo
+    400012: Nevera_L_Tirador_Arriba
+    2300000: Nevera_L_Abajo
+    2300002: Nevera_L_Arriba
+    2300004: Nevera_L_Puerta_Abajo
+    2300006: Nevera_L_Puerta_Arriba
+    2300008: Nevera_L_Tirador_Abajo
+    2300010: Nevera_L_Tirador_Arriba
+    3300000: Nevera_L_Abajo
+    3300002: Nevera_L_Arriba
+    3300004: Nevera_L_Puerta_Abajo
+    3300006: Nevera_L_Puerta_Arriba
+    3300008: Nevera_L_Tirador_Abajo
+    3300010: Nevera_L_Tirador_Arriba
+    4300000: Nevera_L_Abajo
+    4300002: Nevera_L_Puerta_Abajo
+    4300004: Nevera_L_Tirador_Abajo
+    4300006: Nevera_L_Arriba
+    4300008: Nevera_L_Puerta_Arriba
+    4300010: Nevera_L_Tirador_Arriba
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
